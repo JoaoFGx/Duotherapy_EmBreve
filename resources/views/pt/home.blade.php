@@ -4,14 +4,14 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta property="og:title" content="EasyLink"/>
+        <meta property="og:title" content="A Barba de Baixo"/>
         <meta property="og:type" content="product"/>
         <meta property="og:description" content="Você está cansado de não saber quem viu algo que você compartilhou? O EasyLink permite que você obtenha informações sobre quem clica e acessa um link que você compartilhou."/>
         <meta property="og:image" content="{{ asset('storage/pt-meta-image.png') }}"/>
 
         <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
 
-        <title>EasyLink</title>
+        <title>A Barba de Baixo</title>
 
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-MX54LS9J2B"></script>
@@ -50,34 +50,36 @@
                                 <div class="flex flex-col items-start space-y-8">
                                     <div class="relative">
                                         <h1 class="mb-8 text-5xl lg:text-[3.20rem] font-black leading-none tracking-normal text-white md:text-6xl md:tracking-tight">
-                                            Lorem ipsum dolor sit <span class="w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-primarycolor to-primarycolor lg:inline">lorem lorem </span>Lorem ipsum dolor sit, amet consectetu?
-                                        </h1>
+                                            Voce gostaria de aumentar a receita da sua barbearia sem precisar trabalhar mais?</h1>
+                                        <h2 class="mb-8 text-5xl lg:text-[2.20rem] font-black leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
+                                            Aumente a sua receita sem trabalhar mais, saiba como se cadastrar na nossa lista de serviço. Você vai ficar surpreso com nosso modelo de parceria.
+                                            Além disso você terá os benefícios de:
+                                        </h2>
                                     </div>
-                                    <p class="text-3xl text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam tenetur eum dicta, soluta quo quibusdam voluptatibus.</p>
                                     <ul class="flex flex-col gap-5">
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <p class="text-2xl text-white">Negócio claro e atrativo para os seus clientes.</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <p class="text-2xl text-white">Não concorrência de serviço.</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <p class="text-2xl text-white">Receita garantida ao gerar um código de barra.</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <p class="text-2xl text-white">Deixe seus clientes mais satisfeitos.</p>
                                         </li>
                                     </ul>
                                 </div>
@@ -87,9 +89,9 @@
                         <aside class="relative z-10 w-full max-w-3xl mt-20 lg:mt-0 lg:w-5/12 ">
                             @include('error-message')
                             <div class="bg-gradient-to-br from-secondarycolor via-primarycolor to-secondarycolor rounded-xl px-1 py-1 ">
-                                <div class="flex flex-col items-start justify-start py-10 px-5 sm:px-10 bg-[#09090a] w-1/33.7 shadow-2xl rounded-xl">
+                                <div class="flex flex-col items-start justify-start py-10 px-5 sm:px-10 bg-[#09090a] w-1/33.7 shadow-2xl rounded-xl" style="border: 4px solid #768d59;">
                                     <form action="{{ route('form.validation', ['lang' => \Request::getpathinfo()]) }}" method="POST" class="w-full">
-                                        <h4 class="w-full text-[2.0rem] md:text-[2.8rem] text-white text-center font-bold">Saiba mais sobre o <span class="text-transparent bg-clip-text bg-gradient-to-t from-secondarycolor via-primarycolor to-primarycolor">EasyProduct
+                                        <h4 class="w-full text-[2.0rem] md:text-[2.8rem] text-white text-center font-bold">Saiba mais sobre <span class="text-white bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">A Barba de Baixo
                                             </span> agora!</h4>
                                         @csrf
                                         <div class="relative w-full mt-6 space-y-8">

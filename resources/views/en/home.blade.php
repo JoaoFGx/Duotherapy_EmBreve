@@ -25,7 +25,7 @@
 
         @vite('resources/css/app.css')
     </head>
-    <body class="relative font-sans w-full bg-center min-h-screen bg-cover bg-no-repeat bg-fixed lg:scale-[0.7] lg:h-screen lg:-mt-[70px] lg:overflow-y-hidden" style="background-image:url({{ asset('storage/background.jpg') }})">
+    <body class="relative font-sans w-full bg-center min-h-screen bg-cover bg-no-repeat bg-fixed lg:scale-[0.7] lg:h-screen lg:-mt-[70px] lg:overflow-y-hidden" style="background-image:url({{ asset('storage/background.jpg') }});">
 
         <!-- Section 1 -->
         <section>
@@ -51,10 +51,9 @@
                                     <div class="relative">
                                         <h1 class="mb-8 text-5xl lg:text-[3.20rem] font-black leading-none tracking-normal text-white md:text-6xl md:tracking-tight">
                                             Would you like to increase your barbershop revenue without having to work more? </h1>
-                                        <h2 class="mb-8 text-5xl lg:text-[2.20rem] font-black leading-none tracking-normal text-white md:text-6xl md:tracking-tight"> <span class="w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-primarycolor to-primarycolor lg:inline"></span>Increase your income without working more, find out how to sign up to our service list. You will be surprised by our partnership model.
+                                        <h2 class="mb-8 text-5xl lg:text-[2.20rem] font-black leading-none tracking-normal text-white md:text-2xl md:tracking-tight"> <span class="w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-primarycolor to-primarycolor lg:inline"></span>Increase your income without working more, find out how to sign up to our service list. You will be surprised by our partnership model.
                                             Additionally, you will have the benefits of:</h2>
                                     </div>
-
                                     <ul class="flex flex-col gap-5">
                                         <li class="flex items-top">
                                             <div class="w-10">
@@ -88,9 +87,9 @@
                         <aside class="relative z-10 w-full max-w-3xl mt-20 lg:mt-0 lg:w-5/12 ">
                             @include('error-message')
                             <div class="bg-gradient-to-br from-secondarycolor via-primarycolor to-secondarycolor rounded-xl px-1 py-1 ">
-                                <div class="flex flex-col items-start justify-start py-10 px-5 sm:px-10 bg-[#09090a] w-1/33.7 shadow-2xl rounded-xl">
+                                <div class="flex flex-col items-start justify-start py-10 px-5 sm:px-10 bg-[#09090a] w-1/33.7 shadow-2xl rounded-xl" style="border: 4px solid #768d59;">
                                     <form action="{{ route('form.validation', ['lang' => \Request::getpathinfo()]) }}" method="POST" class="w-full">
-                                        <h4 class="w-full text-[2.0rem] md:text-[2.8rem] text-white text-center font-bold">Learn more about <span class="text-transparent bg-clip-text bg-gradient-to-t from-secondarycolor via-primarycolor to-primarycolor">The Beard from Below
+                                        <h4 class="w-full text-[2.0rem] md:text-[2.8rem] text-white text-center font-bold">Learn more about <span class="text-white bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">The Beard from Below
                                             </span> now!</h4>
                                         @csrf
                                         <div class="relative w-full mt-6 space-y-8">
