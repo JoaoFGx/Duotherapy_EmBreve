@@ -110,7 +110,7 @@
                                                 <input type="checkbox" name="checkbox" id="checkbox" class="cursor-pointer w-5 h-5 xl:w-7 xl:h-7 border rounded-sm focus:outline-none" checked required>
                                             </div>
                                             <div class="relative">
-                                                <button type="submit" class=" w-full px-5 py-4 text-lg text-center cursor-pointer font-semibold text-white bg-gradient-to-r from-secondarycolor via-primarycolor to-secondarycolor rounded-lg hover:from-primarycolor hover:via-secondarycolor hover:to-primarycolor transition duration-150 ease-out transform">I'm Interested</button>
+                                                <button type="submit" class="w-full px-5 py-4 text-lg text-center cursor-pointer font-semibold text-white bg-gradient-to-br from-#768d59 rounded-lg hover:from-primarycolor hover:via-secondarycolor hover:to-primarycolor transition duration-150 ease-out transform" style="background-color: #768d59; color: white;">I'm Interested</button>
                                             </div>
                                         </div>
                                     </form>
