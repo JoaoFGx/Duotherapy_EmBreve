@@ -11,7 +11,12 @@
 
         <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
 
-        <title>The Beard from Below</title>
+        <link rel="apple-touch-icon" sizes="180x180" href="/public/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="../../../public/storaga/favicon.ico">
+        <link rel="icon" type="image/png" sizes="16x16" href="/public/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+
+        <title>A Barba de Baixo</title>
 
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-MX54LS9J2B"></script>
@@ -47,10 +52,11 @@
                     <div class="flex flex-col items-center px-10 pt-20 pb-9 lg:flex-row">
                         <div class="relative w-full max-w-3xl lg:w-7/12">
                             <div class="relative flex flex-col items-center justify-center w-full h-full lg:pr-10">
-                                <div class="flex flex-col items-start space-y-8">
+                                <div class="flex flex-col items-start space-y-12">
                                     <div class="relative">
                                         <h1 class="mb-8 text-5xl lg:text-[3.20rem] font-black leading-none tracking-normal text-white md:text-6xl md:tracking-tight">
-                                            Would you like to increase your barbershop revenue without having to work more? </h1>
+                                            <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">Would </span> you like to increase your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">barbershop </span>
+                                             without having to work <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">more</span>? </h1>
                                         <h2 class="mb-8 text-5xl lg:text-[2.20rem] font-black leading-none tracking-normal text-white md:text-2xl md:tracking-tight"> <span class="w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-primarycolor to-primarycolor lg:inline"></span>Increase your income without working more, find out how to sign up to our service list. You will be surprised by our partnership model.
                                             Additionally, you will have the benefits of:</h2>
                                     </div>
@@ -59,25 +65,25 @@
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Clear and attractive business for your customers.</p>
+                                            <p class="text-2xl text-white">Clear and <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">attractive </span> business for your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">customers </span>.</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Non-competition of service.</p>
+                                            <p class="text-2xl text-white">Non-<span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">competition </span> of <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">service</span>.</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Guaranteed revenue when generating a barcode.</p>
+                                            <p class="text-2xl text-white"><span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">Guaranteed </span> revenue when generating a <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">barcode </span>.</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Make your customers more satisfied.</p>
+                                            <p class="text-2xl text-white">Make your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">customers </span> more <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">satisfied </span>.</p>
                                         </li>
                                     </ul>
                                 </div>
