@@ -66,25 +66,25 @@
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white"><span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">Negócio </span> claro e <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">atrativo </span> para os seus clientes.</p>
+                                            <p class="text-2xl text-white font-black"><span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">Negócio </span> claro e <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">atrativo </span> para os seus clientes.</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Não <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">concorrência</span> de <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">serviço</span>.</p>
+                                            <p class="text-2xl text-white font-black">Não <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">concorrência</span> de <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">serviço</span>.</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white"><span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">Receita </span> garantida ao gerar um <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">código</span> de barra.</p>
+                                            <p class="text-2xl text-white font-black"><span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">Receita </span> garantida ao gerar um <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">código</span> de barra.</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Deixe seus <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">clientes</span> mais satisfeitos.</p>
+                                            <p class="text-2xl text-white font-black">Deixe seus <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">clientes</span> mais satisfeitos.</p>
                                         </li>
                                     </ul>
                                 </div>

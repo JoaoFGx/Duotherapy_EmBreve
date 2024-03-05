@@ -4,7 +4,7 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta property="og:title" content="The Beard from Below"/>
+        <meta property="og:title" content="A Barba de Baixo"/>
         <meta property="og:type" content="product"/>
         <meta property="og:description" content="Would you like to increase your barbershop revenue without having to work more? Increase your income without working more!"/>
         <meta property="og:image" content="{{ asset('storage/en-meta-image.png') }}"/>
@@ -55,7 +55,7 @@
                                 <div class="flex flex-col items-start space-y-12">
                                     <div class="relative">
                                         <h1 class="mb-8 text-5xl lg:text-[3.20rem] font-black leading-none tracking-normal text-white md:text-6xl md:tracking-tight">
-                                            <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">Would </span> you like to increase your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">barbershop </span>
+                                            Would  you <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;"> like </span> to increase your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">barbershop </span>
                                              without having to work <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">more</span>? </h1>
                                         <h2 class="mb-8 text-5xl lg:text-[2.20rem] font-black leading-none tracking-normal text-white md:text-2xl md:tracking-tight"> <span class="w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-primarycolor to-primarycolor lg:inline"></span>Increase your income without working more, find out how to sign up to our service list. You will be surprised by our partnership model.
                                             Additionally, you will have the benefits of:</h2>
@@ -65,25 +65,25 @@
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Clear and <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">attractive </span> business for your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">customers </span>.</p>
+                                            <p class="text-2xl text-white font-black ">Clear and <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">attractive </span> business for your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">customers </span>.</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Non-<span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">competition </span> of <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">service</span>.</p>
+                                            <p class="text-2xl text-white font-black">Non-<span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">competition </span> of <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">service</span>.</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white"><span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">Guaranteed </span> revenue when generating a <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">barcode </span>.</p>
+                                            <p class="text-2xl text-white font-black"><span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">Guaranteed </span> revenue when generating a <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">barcode </span>.</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Make your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">customers </span> more <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">satisfied </span>.</p>
+                                            <p class="text-2xl text-white font-black">Make your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">customers </span> more <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">satisfied </span>.</p>
                                         </li>
                                     </ul>
                                 </div>
@@ -95,7 +95,7 @@
                             <div class="bg-gradient-to-br from-secondarycolor via-primarycolor to-secondarycolor rounded-xl px-1 py-1 ">
                                 <div class="flex flex-col items-start justify-start py-10 px-5 sm:px-10 bg-[#09090a] w-1/33.7 shadow-2xl rounded-xl" style="border: 4px solid #768d59;">
                                     <form action="{{ route('form.validation', ['lang' => \Request::getpathinfo()]) }}" method="POST" class="w-full">
-                                        <h4 class="w-full text-[2.0rem] md:text-[2.8rem] text-white text-center font-bold">Learn more about <span class="text-white bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">The Beard from Below
+                                        <h4 class="w-full text-[2.0rem] md:text-[2.8rem] text-white text-center font-bold">Learn more about <span class="text-white bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">A Barba de Baixo
                                             </span> now!</h4>
                                         @csrf
                                         <div class="relative w-full mt-6 space-y-8">
