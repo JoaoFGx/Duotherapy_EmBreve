@@ -5,15 +5,14 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <meta property="og:title" content="A Barba de Baixo" />
+    <meta property="og:title" content="Duotherapy" />
     <meta property="og:type" content="product" />
-    <meta property="og:description"
-        content="Você está cansado de não saber quem viu algo que você compartilhou? O EasyLink permite que você obtenha informações sobre quem clica e acessa um link que você compartilhou." />
+    <meta property="og:description" content="Gostaria de aprender uma massagem relaxante para dar ao seu parceiro?" />
     <meta property="og:image" content="{{ asset('storage/pt-meta-image.png') }}" />
 
     <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
 
-    <title>A Barba de Baixo</title>
+    <title>Duotherapy</title>
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-MX54LS9J2B"></script>
