@@ -4,9 +4,9 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta property="og:title" content="A Barba de Baixo"/>
+        <meta property="og:title" content="Duotherapy"/>
         <meta property="og:type" content="product"/>
-        <meta property="og:description" content="Would you like to increase your barbershop revenue without having to work more? Increase your income without working more!"/>
+        <meta property="og:description" content="Would you like to learn relaxing massage to give your partner?"/>
         <meta property="og:image" content="{{ asset('storage/en-meta-image.png') }}"/>
 
         <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
@@ -57,7 +57,7 @@
                                 <div class="flex flex-col items-start space-y-8">
                                     <div class="relative w-full flex flex-col">
                                         <h1 class="mb-8 justify-center text-4xl pt-20 ml-11 lg:text-[3.20rem] font-black leading-none tracking-normal text-white md:text-4xl md:tracking-tight">
-                                            Shortly!
+                                            Course for couples!
                                         </h1>
                                         <ul class="pt-10">
                                             <li class="flex items-top mb-10 cursor-pointer">
@@ -66,14 +66,13 @@
                                                         <span class="text-md font-bold">✓</span>
                                                     </span>
                                                 </div>
-                                                <div class="bg-black bg-opacity-70 p-8 rounded-lg hover:shine-effect w-full">
-                                                    <h2 class="mb-8 text-3xl lg:text-[1.8rem] font-white leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
-                                                        I'm a Customer
+                                                <div class="bg-black bg-opacity-70 p-8 rounded-lg hover:shine-effect flex items-center w-full">
+                                                    <img class="h-24 pt-3 lg:h-20 mr-4" src="{{ asset('storage/logo-casal.png') }}" alt="Logo">
+                                                    <h2 class="mb-8 text-3xl pt-5 lg:text-[1.8rem] font-white leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
+                                                        Couple course!
                                                     </h2>
-
-
-
                                                 </div>
+
                                             </li>
                                             <li id="barber" class="flex items-top mb-10 cursor-pointer">
                                                 <div class="w-10">
@@ -81,10 +80,12 @@
                                                         <span class="text-md font-bold">✓</span>
                                                     </span>
                                                 </div>
-                                                <div class="bg-black bg-opacity-70 p-8 rounded-lg hover:shine-effect w-full">
-                                                    <h2
-                                                        class="mb-8 text-3xl lg:text-[1.8rem] font-white leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
-                                                        I'm a barber
+                                                <div class="bg-black bg-opacity-70 p-8 rounded-lg hover:shine-effect flex items-center w-full">
+                                                    <img class="h-24 pt-3 lg:h-20 mr-4" src="{{ asset('storage/logo-curso.png') }}" alt="Logo">
+                                                    <h2 class="mb-8 text-3xl pt-5 lg:text-[1.8rem] font-white leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
+                                                        Relaxing course!
+                                                    </h2>
+                                                </div>
                                                     </h2>
                                                 </div>
                                             </li>

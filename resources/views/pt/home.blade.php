@@ -68,10 +68,12 @@
                                                 <span class="text-md font-bold">✓</span>
                                             </span>
                                         </div>
-                                        <div class="bg-black bg-opacity-70 p-8 rounded-lg hover:shine-effect w-full">
-                                            <h2 class="mb-8 text-3xl lg:text-[1.8rem] font-white leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
-                                                Sou Cliente
+                                        <div class="bg-black bg-opacity-70 p-8 rounded-lg hover:shine-effect flex items-center w-full">
+                                            <img class="h-24 pt-3 lg:h-20 mr-4" src="{{ asset('storage/logo-casal.png') }}" alt="Logo">
+                                            <h2 class="mb-8 text-3xl pt-5 lg:text-[1.8rem] font-white leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
+                                                Curso para casal!
                                             </h2>
+                                        </div>
 
 
 
@@ -83,10 +85,12 @@
                                                 <span class="text-md font-bold">✓</span>
                                             </span>
                                         </div>
-                                        <div class="bg-black bg-opacity-70 p-8 rounded-lg hover:shine-effect w-full">
-                                            <h2
-                                                class="mb-8 text-3xl lg:text-[1.8rem] font-white leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
-                                                Sou Barbeiro
+                                        <div class="bg-black bg-opacity-70 p-8 rounded-lg hover:shine-effect flex items-center w-full">
+                                            <img class="h-24 pt-3 lg:h-20 mr-4" src="{{ asset('storage/logo-curso.png') }}" alt="Logo">
+                                            <h2 class="mb-8 text-3xl pt-5 lg:text-[1.8rem] font-white leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
+                                                Curso relaxante!
+                                            </h2>
+                                        </div>
                                             </h2>
                                         </div>
                                     </li>
