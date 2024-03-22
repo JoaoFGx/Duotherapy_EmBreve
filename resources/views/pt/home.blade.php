@@ -57,43 +57,50 @@
                         <div class="flex flex-col items-start space-y-8">
                             <div class="relative w-full flex flex-col">
                                 <h1
-                                    class="mb-8 justify-center text-4xl pt-20 lg:text-[3.20rem] font-black leading-none tracking-normal text-white md:text-4xl md:tracking-tight">
-                                    Em breve!
+                                    class="mb-8 justify-center text-4xl pt-20 ml-11 lg:text-[3.20rem] font-black leading-none tracking-normal text-white">
+                                    Em Breve!
                                 </h1>
+                            </div>
+
                                 <ul class="pt-10">
                                     <li class="flex items-top mb-10 cursor-pointer">
                                         <div class="w-10">
-                                            <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full">
+                                            <span
+                                                class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full">
                                                 <span class="text-md font-bold">✓</span>
                                             </span>
                                         </div>
-                                        <div class="bg-black bg-opacity-70 p-8 rounded-lg hover:shine-effect flex items-center w-full">
-                                            <img class="h-24 pt-3 lg:h-20 mr-4" src="{{ asset('storage/logo-casal.png') }}" alt="Logo">
-                                            <h2 class="mb-8 text-3xl pt-5 lg:text-[1.8rem] font-white leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
-                                                Curso para casal!
+                                        <div class="bg-black bg-opacity-70 p-4 lg:p-8 rounded-lg hover:shine-effect flex items-center w-full">
+                                            <img class="h-16 lg:h-20 mr-4" src="{{ asset('storage/logo-casal.png') }}" alt="Logo">
+                                            <h2 class="text-xl lg:text-2xl font-white leading-none tracking-normal text-white lg:tracking-tight">
+                                                Curso Casal!
                                             </h2>
                                         </div>
 
 
 
-                                        </div>
+
                                     </li>
                                     <li id="barber" class="flex items-top mb-10 cursor-pointer">
                                         <div class="w-10">
-                                            <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full">
+                                            <span
+                                                class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full">
                                                 <span class="text-md font-bold">✓</span>
                                             </span>
                                         </div>
-                                        <div class="bg-black bg-opacity-70 p-8 rounded-lg hover:shine-effect flex items-center w-full">
-                                            <img class="h-24 pt-3 lg:h-20 mr-4" src="{{ asset('storage/logo-curso.png') }}" alt="Logo">
-                                            <h2 class="mb-8 text-3xl pt-5 lg:text-[1.8rem] font-white leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
-                                                Curso relaxante!
+                                        <div class="bg-black bg-opacity-70 p-4 lg:p-8 rounded-lg hover:shine-effect flex items-center w-full">
+                                            <img class="h-16 lg:h-20 mr-4" src="{{ asset('storage/logo-casal.png') }}" alt="Logo">
+                                            <h2 class="text-xl lg:text-2xl font-white leading-none tracking-normal text-white lg:tracking-tight">
+                                                Curso Relaxante!
                                             </h2>
                                         </div>
-                                            </h2>
-                                        </div>
-                                    </li>
-                                </ul>
+
+
+
+                                        </h2>
+                            </div>
+                            </li>
+                            </ul>
                             </div>
                         </div>
                     </div>
